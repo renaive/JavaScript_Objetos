@@ -15,3 +15,7 @@ clientes.dependentes = {
 };
 
 console.log(clientes);
+
+clientes.dependentes.nome = "Sara Silva";
+
+console.log(clientes);
