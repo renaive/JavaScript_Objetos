@@ -43,4 +43,5 @@ for (let info in cliente) {
   }
 }
 
+console.log(typeof cliente.depositar);
 console.log(relatorio);
